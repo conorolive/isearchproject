@@ -1,4 +1,3 @@
-#Fuktigt som Helvete
+#iSearch Project
 
-My personal github pages blog.
-
+A blog (as a school project) documenting my experience shadowing a job and exploring different career options.

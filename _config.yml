@@ -3,7 +3,7 @@ title: My iSearch
 header-img: img/home-bg.jpg
 email: conorolive@riseup.net
 description: "My blog documenting my experience while shadowing a job and while exploring future career options."
-baseurl:
+baseurl: /isearchproject
 url:
 twitter_username: conorolive
 github_username: conorolive

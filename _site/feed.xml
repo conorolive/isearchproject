@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuktigt som Helvete</title>
+    <description>My personal blog where I generally talk about things too boring for anyone but myself.</description>
+    <link>/conorolive/</link>
+    <atom:link href="/conorolive/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 07 Sep 2015 03:53:05 -0700</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2015 03:53:05 -0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Jankare</title>
+        <description>&lt;p&gt;So as we wait for the questionably slow Edhesive MOOC to begin many weeks after this AP Computer Science class has already began, I decided to
+work on something instead of doing the dreaded task of copying &quot;Hello World&quot; Java programs out of our outdated textbooks (such as having Windows XP in
+their image examples). I didn&#39;t want to try and attempt some of the larger projects I had in mind since they seemed a bit daunting for something to try and 
+tackle in a shorter amount of time.&lt;/p&gt;
+
+&lt;p&gt;The project idea that I decided to do was one that (admittedly) has definitely been done before, but is proving to still be an interesting learning experience
+for me, if nothing else comes of it. The basic idea behind it isn&#39;t that complicated: Use a simple k-means clustering algorithm to cluster 3D RGB values from an
+image into colors that are representative of the rest of the image. One reason this could be useful, is for theming reasons (say, making your terminal colors
+match your desktop wallpaper). Image segmentation actually does have a lot of other uses too, mainly in the area of computer vision (which could be a whole
+other post), but nothing that my program is going to ever attempt to tackle.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Sep 2015 05:00:00 -0700</pubDate>
+        <link>/conorolive/2015/09/07/man-must-explore/</link>
+        <guid isPermaLink="true">/conorolive/2015/09/07/man-must-explore/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

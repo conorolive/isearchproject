@@ -2,7 +2,7 @@
 layout:     post
 title:      "Resume and Cover Letter"
 subtitle:   "My CV and corresponding cover letter."
-date:       2015-10-25 13:51:00
+date:       2015-10-30 20:45:00
 author:     "Conor Olive"
 header-img: "img/post-bg-06.jpg"
 ---
